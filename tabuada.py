@@ -4,4 +4,4 @@ def tabuada(n1):
         r = i * n1
         print(f"{i} x {n1} = {r}")
 
-tabuada(4)
+tabuada(7)

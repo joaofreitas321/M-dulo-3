@@ -7,12 +7,12 @@ def Primo(n1) -> bool:
             break
     return E_Primo 
 
-if Primo(3) == True:
-    print("O nº 3 é primo")
-else:
-    print("O nº 3 não é primo")
+#if Primo(3) == True:
+#   print("O nº 3 é primo")
+#else:
+#    print("O nº 3 não é primo")
 
-if Primo(8) == True:
-    print("O nº 8 é primo")
-else:
-    print("O nº 8 não é primo")          
+#if Primo(8) == True:
+#    print("O nº 8 é primo")
+#else:
+#    print("O nº 8 não é primo")          

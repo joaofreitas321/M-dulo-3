@@ -47,7 +47,7 @@ def main():
     CalcularMeses(valor_lider)
     CalcularMeses(valor_dois)
     CalcularMeses(valor_condutor)
-    #calcular o vallor do deposito a 10 anos
+    #calcular o valor do deposito a 10 anos
 
 if __name__=="__main__":
     main() 

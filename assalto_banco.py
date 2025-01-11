@@ -40,7 +40,7 @@ def main():
     #calcular o valor dos dois elementos 20%
     valor_dois = round(valor_assalto * 0.2,2)
     print(f"Os dois elementos seguintes recebem {valor_dois}")
-    #calcular o valor do cindutor 10%
+    #calcular o valor do condutor 10%
     valor_condutor = round(valor_assalto * 0.1,2)
     print(F"O condutor recebe {valor_condutor}")
     #calcular quanto pode gastar cada um

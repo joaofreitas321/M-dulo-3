@@ -17,4 +17,4 @@ def medir_tempo():
     tempo_execucao = fim -inicio
     print("Tempo de execução:",tempo_execucao.total_seconds())
 
-medir_tempo()    
+medir_tempo()   
